@@ -11,7 +11,7 @@ import PlaceOrder from "./pages/PlaceOrder";
 import Orders from "./pages/orders";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
-import SearchBar from "./components/Searchbar";
+import SearchBar from "./components/SearchBar";
 import { ToastContainer, toast } from "react-toastify";
 import Verify from "./pages/Verify";
 
